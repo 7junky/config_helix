@@ -13,4 +13,4 @@ normal = "block"
 [editor.statusline]
 mode.normal = "NORMAL"
 mode.insert = "INSERT"
-mode.select = "SELECT"
+mode.select = "VISUAL"
